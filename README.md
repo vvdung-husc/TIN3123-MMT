@@ -8,3 +8,7 @@ ROUTE:
 Network = IP & Mask (Địa chỉ mạng đích - địa chỉ Network/ không phải địa chỉ Host)
 
 Next Hop: Là Route kế tiếp (cùng mạng với Route đang cấu hình) trên đường đến đích 
+
+Hiển thị tên cổng kết nối:
+
+Menu: Options-> Preferences: Interfaces Tab -> Always Show Port Label
