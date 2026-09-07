@@ -3,12 +3,12 @@
 WiFi: CNTT-MMT/13572468
 
 
-ROUTE:
+**ROUTE:**
 
-Network = IP & Mask (Địa chỉ mạng đích - địa chỉ Network/ không phải địa chỉ Host)
+***Network*** = IP & Mask (Địa chỉ mạng đích - địa chỉ Network/ không phải địa chỉ Host)
 
-Next Hop: Là Route kế tiếp (cùng mạng với Route đang cấu hình) trên đường đến đích 
+***Next Hop***: Là Route kế tiếp (cùng mạng với Route đang cấu hình) trên đường đến đích 
 
-Hiển thị tên cổng kết nối:
+***Hiển thị tên cổng kết nối:***
 
-Menu: Options-> Preferences: Interfaces Tab -> Always Show Port Label
+> ***Menu***: Options-> Preferences: Interfaces Tab -> Always Show Port Label
