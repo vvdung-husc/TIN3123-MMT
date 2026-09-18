@@ -2,6 +2,7 @@
 
 WiFi: CNTT-MMT/13572468
 
+[**Packet Tracer 8.2.2**](https://it.iothings.vn/downloads/CiscoPacketTracer822_64bit_setup_signed.exe)
 
 **ROUTE:**
 
